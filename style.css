@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #8BC34A, #4CAF50);
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    background: white;
+    padding: 25px;
+    border-radius: 15px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+}
+
+h1 {
+    text-align: center;
+    color: #2E7D32;
+}
+
+#historia {
+    font-size: 18px;
+    margin: 20px 0;
+    min-height: 120px;
+}
+
+#personagens {
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+button {
+    background: #2E7D32;
+    color: white;
+    border: none;
+    padding: 12px;
+    margin: 5px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #1B5E20;
+}
